@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileCodingExercise</string>
+    <string name="read_now">Read Now</string>
+    <string name="mark_as_a_read">Mark As Read</string>
+    <string name="add_to_library">Add to library</string>
+    <string name="read_offline">read offline</string>
+    <string name="the_story">The Story</string>
+    <string name="close_detail_screen">Close detail screen</string>
+</resources>
